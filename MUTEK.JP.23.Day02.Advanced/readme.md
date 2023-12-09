@@ -1,6 +1,14 @@
 # Day02.Signaling
 The file shared in this Github repository is an ideal file for where we hope to get to within 2 hours of classes.
 
+## ⚠️⚠️⚠️ For users that encountered the Signaling COMPs and Logger initialization issues ⚠️⚠️⚠️
+Temporary fix, create the following folder:
+- On Windows: `C:\Users\USERNAME\AppData\Local\Derivative\TouchDesigner099\TDLogs`
+  Where **USERNAME** is replaced by your username.
+- On MacOS: `~/Library/Application Support/Derivative/Touchdesigner099/TDLogs`
+
+When starting TouchDesigner and using the Logger, SignalingServer, SignalingClient, you should now not encounter any issues.
+
 ## Getting started
 During this demo, I will heavily rely on an external editor, VS Code.
 
