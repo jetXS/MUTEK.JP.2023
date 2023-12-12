@@ -19,6 +19,3 @@ https://substance3d.adobe.com/assets/allassets/28f9b21fb5910b0a9d0963957eebf9e6b
 > rust_brown.sbsar
 
 https://substance3d.adobe.com/assets/allassets/3fcf23dbe96ef2799a78ccbb1fc98f1158724a50
-
-# Day01.particlesGPU
-The file shared in this Github repository is just made of the vanilla / default particlesGPU COMP. We will explore together what it can do and how it can be used, and cover most of its settings.
